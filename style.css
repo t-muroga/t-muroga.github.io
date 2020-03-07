@@ -1,4 +1,4 @@
-  x@import url(sanitize.css);
+  @import url(sanitize.css);
   @import url('https://fonts.googleapis.com/css?family=Sriracha&display=swap');
   body {
     background-color: #f0f0f0;
